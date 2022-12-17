@@ -1,0 +1,90 @@
+@font-face {
+  font-family: Cinzel-Regular;
+   src: url("assets/fonts/Cinzel/static/Cinzel-Regular.ttf");
+ }
+ .container {
+  max-width: 1440px;
+  margin: 0 auto;
+  min-height: 50px;
+}
+
+ .nav {
+  font-family: Cinzel-Regular, Times New Roman, serif;
+  width: 160px;
+  position: fixed;
+  top: 100px;
+  left: 0;
+  background-color: rgb(112, 124, 180);
+  padding-top: 1px;
+  font-size: 16px;
+  color: rgb(27, 3, 3);
+  max-width: 1440px;
+  margin: 0 auto;
+  min-height: 50px;
+}
+.nav-font {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+.main-nav {
+  max-width: 1000px;
+  margin-left: 160px;
+  padding: 0px 10px;
+  
+  
+}
+.Summary {
+  line-height:15px;
+}
+.box-10 {
+  width: 500px;
+  height: 106px;
+  position: sticky;
+  left: 200px;
+  font-size: 20px;
+  border: 5px solid rgb(31, 29, 136);
+  line-height:21px;
+}
+.box-11 {
+  font-family: Cinzel-Regular, Times New Roman, serif;
+  position: absolute;
+  top: 20px;
+  left: 120px;
+  font-size: 20px;
+  line-height:10px;
+}
+.profile-photo{
+  position: sticky;
+  
+  margin: 0 auto;
+  min-height: 50px;
+  left: 200px;
+  width: 100px;
+  border: 3px solid rgb(43, 87, 153);
+}
+.title {
+  font-family: Cinzel-Regular, Times New Roman, serif;
+
+}
+.table-header {
+  border: 1px solid grey;
+  width: 100%;
+  font-size: 16px;
+  position: sticky;
+  }
+  .footer {
+    display: inline;
+    align-items: center;
+    margin-left: 500px;
+        color: blueviolet;
+    justify-content: space-between;
+  }
+  .footer-img {
+    align-items: center;
+    display: inline;
+    
+    margin-left: 500px;
+    justify-content: space-between;
+    width: 50px;
+  
+  }
