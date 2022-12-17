@@ -53,6 +53,14 @@
   font-size: 20px;
   line-height:10px;
 }
+.box-12 {
+  font-family: Cinzel-Regular, Times New Roman, serif;
+  position: absolute;
+  top: 50px;
+  left: 120px;
+  font-size: 12px;
+  line-height:10px;
+}
 .profile-photo{
   position: sticky;
   
